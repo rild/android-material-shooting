@@ -1,5 +1,4 @@
-<object data="https://youtu.be/ovXLw7PHBJA"
-   width="560" height="315"></object>
+[<img src="https://gyazo.com/982b090db6f05ff20076914868f06be4.png"/>](https://youtu.be/ovXLw7PHBJA)
 
 https://akira-watson.com/android/custom-canvas1.html
 
